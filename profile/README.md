@@ -34,7 +34,7 @@ Home — [**nemukai.com**](https://nemukai.com).
     </td>
     <td width="33%" valign="top">
       <h3>Cerno</h3>
-      <p><img src="https://img.shields.io/badge/building-D17B2E?style=flat-square&labelColor=141210" alt="building"/></p>
+      <p><img src="https://img.shields.io/badge/building-D17B2E?style=flat-square&labelColor=141210" alt="private beta live"/></p>
       <p>Calm desktop app that turns messy spreadsheets into conversational data. Drop Excel in, ask questions.</p>
     </td>
   </tr>
