@@ -33,9 +33,9 @@ Home — [**nemukai.com**](https://nemukai.com).
       <p>Pokémon TCG pack stock tracker for India. Auto-updated hourly. No retail runaround.</p>
     </td>
     <td width="33%" valign="top">
-      <h3>Cerno</h3>
-      <p><img src="https://img.shields.io/badge/building-D17B2E?style=flat-square&labelColor=141210" alt="private beta live"/></p>
-      <p>Calm desktop app that turns messy spreadsheets into conversational data. Drop Excel in, ask questions.</p>
+      <h3><a href="https://cerno.nemukai.com">Cerno</a></h3>
+      <p><img src="https://img.shields.io/badge/live-1F869A?style=flat-square&labelColor=141210" alt="live"/> <img src="https://img.shields.io/badge/private%20beta-35764A?style=flat-square&labelColor=141210" alt="private beta"/></p>
+      <p>Spreadsheet intelligence, live in private beta. Drop messy Excel in, get an approved data map, dashboards, and chat-driven analysis.</p>
     </td>
   </tr>
 </table>
