@@ -12,9 +12,9 @@
 
 Nemus (grove, Latin) meets Kai (ocean, 海). A word born from earth and water, for a studio building technology worth remembering.
 
-We research, design, and engineer products that carry the wonder of the natural world — the richness of a coral reef, the warmth of a coastal sunset, the quiet surprise of something you've never seen before. This isn't minimalism. A reef isn't simple. It's layered, alive, full of things worth noticing. That's the standard.
+We research, design, and engineer products that carry the wonder of the natural world: the richness of a coral reef, the warmth of a coastal sunset, the quiet surprise of something you've never seen before. This isn't minimalism. A reef isn't simple. It's layered, alive, full of things worth noticing. That's the standard.
 
-Home — [**nemukai.com**](https://nemukai.com).
+Home: [**nemukai.com**](https://nemukai.com).
 
 <br/>
 
@@ -65,7 +65,7 @@ Home — [**nemukai.com**](https://nemukai.com).
 <img src="./assets/nemukai-mark-yuhi500.svg" width="52" alt="Yūhi"/>&nbsp;&nbsp;&nbsp;&nbsp;
 <img src="./assets/nemukai-mark-ink900.svg" width="52" alt="Ink"/>
 
-<sub>Kai · Nemus · Yūhi · Ink — drawn from a coral reef at different times of day.</sub>
+<sub>Kai · Nemus · Yūhi · Ink, drawn from a coral reef at different times of day.</sub>
 
 </div>
 
