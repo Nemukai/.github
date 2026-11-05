@@ -1,0 +1,17 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 100 100" width="64" height="64">
+    <defs>
+      <clipPath id="gc-nks"><circle cx="50" cy="50" r="42"/></clipPath>
+      <filter id="gb-nks" x="-50%" y="-50%" width="200%" height="200%"><feGaussianBlur stdDeviation="6"/></filter>
+      
+    </defs>
+    <g clip-path="url(#gc-nks)">
+      <rect width="100" height="100" fill="#24709F"/>
+      <g filter="url(#gb-nks)">
+        <ellipse cx="50" cy="98" rx="70" ry="34" fill="#163A55"/>
+        <ellipse cx="28" cy="30" rx="26" ry="22" fill="#8DBCD6"/>
+        <ellipse cx="88" cy="46" rx="16" ry="30" fill="#8FD3C7"/>
+        <ellipse cx="66" cy="18" rx="16" ry="10" fill="#F3C7A6"/>
+        <ellipse cx="38" cy="26" rx="10" ry="8" fill="#F6EEE8"/>
+      </g>
+    </g>
+    <path d="M48.83 57.39C47.69 46.49 39.02 37.66 29.47 37.66C19.91 37.66 13.09 46.49 14.23 57.39C15.37 68.28 24.04 77.12 33.59 77.12C43.15 77.12 49.97 68.28 48.83 57.39M16.76 75.68C27.35 89.38 44.28 93.51 56.78 85.44C69.28 77.37 73.66 59.47 67.13 43.15C60.61 26.83 45.09 16.89 30.47 19.66C15.86 22.44 6.44 37.11 8.22 54.33M64.08 89.57C76.24 85.24 84.55 73.42 85.75 58.73C86.95 44.05 80.87 28.82 69.86 19.02C58.86 9.21 44.7 6.38 32.91 11.63M8 50A42 42 0 1 0 92 50A42 42 0 1 0 8 50Z" fill="none" stroke="#F6EEE8" stroke-width="8" stroke-opacity=".78"/></svg>
