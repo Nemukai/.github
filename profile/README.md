@@ -1,6 +1,6 @@
 <div align="center">
 
-<img src="./assets/nemukai-mark-kai500.svg" width="96" alt="Nemukai mark"/>
+<img src="./assets/nemukai-mark.svg" width="96" alt="Nemukai mark"/>
 
 # Nemukai
 
@@ -56,16 +56,18 @@ Home: [**nemukai.com**](https://nemukai.com).
 
 <br/>
 
-## The palette
+## The mark
 
 <div align="center">
 
-<img src="./assets/nemukai-mark-kai500.svg" width="52" alt="Kai"/>&nbsp;&nbsp;&nbsp;&nbsp;
-<img src="./assets/nemukai-mark-nemus500.svg" width="52" alt="Nemus"/>&nbsp;&nbsp;&nbsp;&nbsp;
-<img src="./assets/nemukai-mark-yuhi500.svg" width="52" alt="Yūhi"/>&nbsp;&nbsp;&nbsp;&nbsp;
-<img src="./assets/nemukai-mark-ink900.svg" width="52" alt="Ink"/>
+<img src="./assets/nemukai-mark.svg" width="52" alt="Nemukai mark"/>&nbsp;&nbsp;&nbsp;&nbsp;
+<img src="./assets/nemukai-mark-small.svg" width="52" alt="Nemukai mark, small cut"/>&nbsp;&nbsp;&nbsp;&nbsp;
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="./assets/nemukai-mark-paper.svg">
+  <img src="./assets/nemukai-mark-ink.svg" width="52" alt="Nemukai mark, one colour"/>
+</picture>
 
-<sub>Kai · Nemus · Yūhi · Ink, drawn from a coral reef at different times of day.</sub>
+<sub>The ripple globe: five rings from a single drop, drawn on the sphere. Full, small and one-colour cuts.</sub>
 
 </div>
 
